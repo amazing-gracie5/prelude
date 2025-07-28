@@ -1,0 +1,7 @@
+# ignore Soundfont file
+FluidR3_GM.sf2
+
+# ignore directories created during runtime
+generated_files/
+uploaded_files/
+__pycache__/
